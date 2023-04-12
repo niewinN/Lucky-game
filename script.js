@@ -44,7 +44,7 @@ const switchPlayer = function () {
   player1El.classList.toggle('player--active');
 };
 
-// Rolling dice functionality
+// Rolling dice functionality:)
 btnRoll.addEventListener('click', function () {
   if (playing) {
     // Generating a random dice roll
